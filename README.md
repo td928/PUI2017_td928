@@ -28,7 +28,7 @@ alias pui2017='cd PUI2017'
 
 ```
 
-![Alt text](screenShots/setup_env.png)
+![Alt text](setup_env.png)
 
 
 
