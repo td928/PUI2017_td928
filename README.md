@@ -26,7 +26,7 @@ export PUI2017=/home/cusp/td928/PUI2017
 ```
 alias pui2017='cd PUI2017'
 
-'''
+```
 
 ![Alt text](screenShots/setup_env.png)
 
