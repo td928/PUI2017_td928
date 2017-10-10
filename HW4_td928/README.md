@@ -1,0 +1,3 @@
+statistical analyses | IV(s) | IV type(s) | DV(s) | Control Var | Control Var type | Question to be answered | H0
+--------------------|--------|------------|-------|-------------|------------------|-------------------------|-----
+ANOVA               | 1,State(meditation or rest) 2,Valence(negtabie,neutral, or positive) 3,Group(novices or experts)     | categorical | clusters extracted from ROIs | NA | NA | whether the brain activities levels are different signficantly across the state,valence and group | the brain activities level (the clusters volumes) are the same with varying State, Valence, and Group
