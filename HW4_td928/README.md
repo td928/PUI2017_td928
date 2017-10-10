@@ -1,3 +1,14 @@
-statistical analyses | IV(s) | IV type(s) | DV(s) | Control Var | Control Var type | Question to be answered | H0  | Link
---------------------|--------|------------|-------|-------------|------------------|-------------------------|-----
-ANOVA               | 1,State(meditation or rest) 2,Valence(negtabie,neutral, or positive) 3,Group(novices or experts)     | categorical | clusters extracted from ROIs | NA | NA | whether the brain activities levels are different signficantly across the state,valence and group | the brain activities level (the clusters volumes) are the same with varying State, Valence, and Group | http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0001897 
+statistical analyses | IV(s) | IV type(s) | DV(s) | DV type(s) | Control Var | Control Var type | Question to be answered | H0  | Link
+--------------------|--------|------------|-------|-------------|------------------|-------------------------|-----|-----|
+ANOVA               | 1,State(meditation or rest) 2,Valence(negtabie,neutral, or positive) 3,Group(novices or experts)     | categorical | clusters extracted from ROIs | NA | NA | whether the brain activities levels are different signficantly across the state,valence and group | the brain activities level (the clusters volumes) are the same with varying State, Valence, and Group | http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0001897
+
+
+
+
+Assignment Two:
+
+Collaborators:
+
+Ian Xiao:
+
+W
