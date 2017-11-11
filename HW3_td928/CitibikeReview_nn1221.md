@@ -9,3 +9,5 @@ $H_1$ : $\frac{W_{\mathrm{over 60}}}{W} - \frac{M_{\mathrm{weekend}}}{M} > 0$. I
 
 ### chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or here, or Statistics in a Nutshell.
 - I think this hypothesis can be tested using Z-test of proportion here. It will be sufficient for analyzing differences for ratio data.
+
+# FBB good - very helpful to the original writer
