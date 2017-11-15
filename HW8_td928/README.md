@@ -1,7 +1,7 @@
 # Assignment 1
 
 ![image of asthma vs. taxi]
-(https://github.com/td928/PUI2017_td928/blob/master/HW8_td928/asthma_taxi.png)
+(PUI2017_td928/HW8_td928/asthma_taxi.png)
 
 
 _*Fig.*_ asthma and taxi trips ended in the same zip code. Notice majority of the zipcodes has very small number of 
