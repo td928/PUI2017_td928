@@ -10,4 +10,4 @@ This might indicate some aspects of the hospitalization discharge rate is not in
 
 
 ## next week project might involve based on this basic visualization to investigate the geographical features of those 
-two variables. See if there is a location features that can be discovered with clustering technique. 
+## two variables. See if there is a location features that can be discovered with clustering technique. 
