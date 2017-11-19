@@ -2,8 +2,9 @@
 
 ![jtl417.png](https://raw.githubusercontent.com/td928/PUI2017_td928/master/HW9_td928/jtl417.png)
 
-caption: This plot is showing the relationship between the assessed value of property in a community district and the square footage of various kinds of property in that district. The Y and X axes are the same across plots to allow for an intuitive comparison. Shown in black is the regression line generated from the points seen in grey - each point corresponds to a certain community district. The range of the y axes are $0 - $4,000,000, and the range of the x axes are 0 - 4e8 square feet. The trend lines show the positive relationship between square footage and value, which is meant to communicate that areas that are more built up are by and large more valuable.
+*Caption*: This plot is showing the relationship between the assessed value of property in a community district and the square footage of various kinds of property in that district. The Y and X axes are the same across plots to allow for an intuitive comparison. Shown in black is the regression line generated from the points seen in grey - each point corresponds to a certain community district. The range of the y axes are $0 - $4,000,000, and the range of the x axes are 0 - 4e8 square feet. The trend lines show the positive relationship between square footage and value, which is meant to communicate that areas that are more built up are by and large more valuable.
 
+# Review:
 
 It is really a cool idea to look at those relationships between assessed value and building area side by side.
 
