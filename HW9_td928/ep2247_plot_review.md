@@ -5,6 +5,10 @@
 A very interesting plot. It provides a very intuitive look into the geospatial distribution for the recycle bins 
 in NYC. 
 
+Figure 1: Map showing all of the places public recycling bins are located throughout New York City. Lower Manhattan has a large concentration of public recycling bins, while Statan Islands, and parts of Queens and Brooklyn have very few public recycling bins.
+
+# Review
+
 A couple of suggestions on how to improve the plot:
 
 1. Adding a scale as a legend to the graph. For someone familiar with NYC, this might not be necessary but scale could 
