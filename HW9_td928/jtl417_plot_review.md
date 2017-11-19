@@ -20,4 +20,4 @@ Here are few of my suggestions on how to improve the graph:
 
 3. Title: even though it is made clear in the caption what the graph is about. I think it helps the viewer to have a title at the top.
 
-Overall, I would reconsider the importances of all the extreme values for the graph. If it is really necessary I think separate plots for each of the categories might be considered. 
+Overall, I would reconsider the importances of all the extreme values for the graph. If they are essential, I think separate axes scales for each of the categories might be considered. 
