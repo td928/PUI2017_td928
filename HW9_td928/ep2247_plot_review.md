@@ -1,6 +1,6 @@
 # Plot Review for ep2247
 
-![ep2247.png]
+![ep2247.png](https://raw.githubusercontent.com/td928/PUI2017_td928/master/HW9_td928/ep2247.png)
 
 A very interesting plot. It provides a very intuitive look into the geospatial distribution for the recycle bins 
 in NYC. 
