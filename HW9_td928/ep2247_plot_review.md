@@ -22,3 +22,17 @@ that recycle bins are unevenly distributed in different regions and this is some
 pay attention to. 
 
 Overall I think it is really good work!
+
+# FBB feedback
+## I specifically asked to address clarity, esthetics and honesty of the plot. 
+
+## clarity: 
+the points blend together in areas but no use of the alpha channel makes it impossible to tell how many bins are in those areas.
+
+## esthetics: 
+no dignificant issues with the esthetic choices
+
+## honesty: 
+there are no issues with honesty (no intentional deformation of the data)
+
+9/10
